@@ -9,11 +9,11 @@ This space is where I share my projects, practice codes, and track my learning j
   New Era University
   2024 Present
 
-#Certifications
+## Certifications
 -
 
 
-##⚙️Skills Set
+## ⚙️Skills Set
 - Programming: Java
 - Databases: SQL
 - Tools: Lucid Chart, Visual Studio Code, HTML
