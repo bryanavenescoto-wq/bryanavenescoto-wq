@@ -9,7 +9,7 @@ This space is where I share my projects, practice codes, and track my learning j
 - New Era University 2024 Present
 
 ## 📑Certifications
--
+- SQL and Relational Databases 101: https://courses.cognitiveclass.ai/certificates/5bde4722cef047429e782cfbf0b0a7bf
 
 
 ## ⚙️Skills Set
