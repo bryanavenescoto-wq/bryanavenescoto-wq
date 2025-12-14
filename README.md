@@ -5,9 +5,7 @@ I'm Information Technology student exploring web development, programming, and d
 This space is where I share my projects, practice codes, and track my learning journey.
 
 ## 🎓Education
-- BS in Information Technology
-New Era University
-2024 – Present
+- BS in Information Technology – New Era University (2024 – Present)
 
 ## 📑Certifications
 - SQL and Relational Databases 101: [Certificate Link](https://courses.cognitiveclass.ai/certificates/5bde4722cef047429e782cfbf0b0a7bf)
