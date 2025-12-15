@@ -14,6 +14,8 @@ This space is where I share my projects, practice codes, and track my learning j
   
 - Oracle Data Platform 2025 Certified Foundations Associate: [Badge Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=959261236E28ACEBFE09663E12BCE1220AF7C99F49492821CB32B835B83A6792)
 
+-Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate: [Badge Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=42DD5D299B55F4EEA3B8AC36452BBCBFD4B163B5CE2D4242B2A23504638CDA86)
+
 
 ## ⚙️Skills Set
 - Programming: Java
