@@ -12,7 +12,7 @@ This space is where I share my projects, practice codes, and track my learning j
   
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FBDEB8C51EE359C968950FD85112C262032F2C9045C86A933C538E2AC99E04EC)
   
-- Oracle Data Platform 2025 Certified Foundations Associate: [Badge Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=959261236E28ACEBFE09663E12BCE1220AF7C99F49492821CB32B835B83A6792)
+- [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=959261236E28ACEBFE09663E12BCE1220AF7C99F49492821CB32B835B83A6792)
 
 - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate: [Badge Link](https://catalog-education.oracle.com/ords/certview/sharebadge?id=42DD5D299B55F4EEA3B8AC36452BBCBFD4B163B5CE2D4242B2A23504638CDA86)
 
