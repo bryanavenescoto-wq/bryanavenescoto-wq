@@ -24,5 +24,6 @@ I'm Information Technology student from New Era University
 - Tools: Lucid Chart, Visual Studio Code, HTML
 
 
-## 💬Let’s Connect!
+## 💬 You may reach me at
+- [Linkedin](https://www.linkedin.com/in/escoto-bryan-aven-8431b53a7/)
 - Email: bryanavenescoto@Gmail.com
