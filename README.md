@@ -19,9 +19,9 @@ I'm Information Technology student from New Era University
 
 
 ## ⚙️Skills Set
-- Programming: Java
+- Programming: Java, Javascript
 - Databases: IBM DB2 Cloud
-- Tools: Lucid Chart, Visual Studio Code, HTML
+- Tools: Lucid Chart, Visual Studio Code, Jaspersoft Studio, Pentaho
 
 
 ## 💬 You may reach me at
