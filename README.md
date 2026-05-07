@@ -19,7 +19,7 @@ I'm Information Technology student from New Era University
 
   <div align="center">
 
-|&nbsp;|Credential|Issuer|
+
 |:-:|:--|:--|
 |🔷|[**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/df5da1113e2f4547821e7c)|IBM Cognitive Class|
 |🔶|[**OCI 2024 Certified Foundations Associate**]()|Oracle|
