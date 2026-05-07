@@ -24,7 +24,7 @@ This space is where I share my projects, practice codes, and track my learning j
 
 ## ⚙️Skills Set
 - Programming: Java, Javascript, Python
-- Databases: IBM DB2 Cloud
+- Databases: IBM DB2 Cloud, MongoDB
 - Tools: Lucid Chart, Visual Studio Code, Jaspersoft Studio, Pentaho
 
 
