@@ -7,7 +7,8 @@ I'm Information Technology student from New Era University
 - BS in Information Technology – New Era University (2024 – Present)
 
 ## 📑Certifications
- <div align="center">
+
+  <div align="center">
 
 |&nbsp;|Credential|Issuer|
 |:-:|:--|:--|
