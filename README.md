@@ -17,6 +17,17 @@ I'm Information Technology student from New Era University
 
 - [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=42DD5D299B55F4EEA3B8AC36452BBCBFD4B163B5CE2D4242B2A23504638CDA86)
 
+  <div align="center">
+
+|&nbsp;|Credential|Issuer|
+|:-:|:--|:--|
+|🔷|[**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/df5da1113e2f4547821e7c)|IBM Cognitive Class|
+|🔶|[**OCI 2024 Certified Foundations Associate**]()|Oracle|
+|🔶|[**OCI 2024 Data Certified Foundations Associate**]()|Oracle|
+|🔶|[**OCI 2024 Certified AI Foundations Associate**]()|Oracle|
+
+</div>
+
 
 ## ⚙️Skills Set
 - Programming: Java, Javascript, Python
