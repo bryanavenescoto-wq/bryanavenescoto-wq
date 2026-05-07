@@ -7,7 +7,7 @@ I'm Information Technology student from New Era University
 - BS in Information Technology – New Era University (2024 – Present)
 
 ## 📑Certifications
-- [NoSQL and DBaaS 101]([https://courses.cognitiveclass.ai/certificates/5bde4722cef047429e782cfbf0b0a7bf](https://courses.cognitiveclass.ai/certificates/e28bd36833d04e679d3af6bee0e0a050))
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/e28bd36833d04e679d3af6bee0e0a050)
 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5bde4722cef047429e782cfbf0b0a7bf)
   
