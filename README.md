@@ -28,6 +28,6 @@ This space is where I share my projects, practice codes, and track my learning j
 - Tools: Lucid Chart, Visual Studio Code, Jaspersoft Studio, Pentaho
 
 
-## 💬 You may reach me at
+## 💬 Let’s Connect!
 - Linkedin: [Profile link](https://www.linkedin.com/in/escoto-bryan-aven-8431b53a7/)
 - Email: bryanavenescoto@Gmail.com
