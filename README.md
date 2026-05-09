@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 I'm Information Technology student exploring web development, programming, and different tech tools. 
-This space is where I share my projects, practice codes, and track my learning journey.
+This space is where I share my projects, and track my learning journey.
 
 ## 🎓Education
 - BS in Information Technology – New Era University (2024 – Present)
