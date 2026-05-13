@@ -29,5 +29,5 @@ This space is where I share my projects, and track my learning journey.
 
 
 ## 💬 Let’s Connect!
-- Linkedin: [Profile link](https://www.linkedin.com/in/escoto-bryan-aven-8431b53a7/)
+- Linkedin: [Bryan Aven Escoto](https://www.linkedin.com/in/escoto-bryan-aven-8431b53a7/)
 - Email: bryanavenescoto@Gmail.com
